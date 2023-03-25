@@ -1,6 +1,7 @@
-baseURL: http://something-fresh.org/
+baseURL: https://akurdia.github.io/csprofessor/
 languageCode: en-us
 title: Hugo Fresh Theme
+canonifyURLs: true
 
 module:
   # uncomment line below for local development of module
@@ -64,7 +65,7 @@ params:
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
   - title: Teach
-    url: /teaching-materials/
+    url: teaching-materials/
   - title: Empower
     url: /edi-materials/
   - title: Connect
