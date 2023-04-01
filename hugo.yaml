@@ -1,7 +1,7 @@
-baseURL: https://akurdia.github.io/csprofessor/
+baseURL: /
 languageCode: en-us
-title: Hugo Fresh Theme
-canonifyURLs: false
+title: CS Professor 
+canonifyURLs: true
 
 module:
   # uncomment line below for local development of module
@@ -37,12 +37,12 @@ params:
   font:
     name: "Open Sans"
     sizes: [400,600]
-    color: red
+    color: "Dark Red"
   hero:
     # Main hero title
     title: Computer Science Educator's Hub
     # Hero subtitle (optional)
-    subtitle: The classes are huge, the material is ever-changing, the pace is fast. You don't need 
+    subtitle: Resources for college-level computer science educator's community to make teaching CS more effective, more inclusive, and more fun. 
     # Button text
     buttontext: Explore
     # Where the main hero button links to
@@ -65,7 +65,7 @@ params:
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
   - title: Teach
-    url: teaching-materials/
+    url: /teaching-materials/
   - title: Empower
     url: /edi-materials/
   - title: Connect
