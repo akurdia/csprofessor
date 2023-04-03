@@ -115,16 +115,22 @@ params:
       - text: App settings
         url: /
   section1:
-    title: Great power comes
-    subtitle: with great responsibility
+    title: Advance all learners 
+    subtitle: with these equity, diversity, and inclusion resources
+
+
+# The Alliance for Identity-Inclusive Computing Education  
+# Grace Hopper
+# Tapia
+# Teach Access
     tiles:
-    - title: App builder
-      icon: mouse-globe
-      text: This is some explanatory text that is on two rows
-      url: /
-      buttonText: Free trial
-    - title: Cloud integration
-      icon: laptop-cloud
+    - title: AIICE
+      icon: plug-cloud
+      text: The Alliance for Identity-Inclusive Computing Education
+      url: https://identityincs.org/
+      buttonText: View
+    - title: TeachAccess
+      icon:  
       text: This is some explanatory text that is on two rows
       url: /
       buttonText: Get started
